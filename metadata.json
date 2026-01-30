@@ -1,0 +1,7 @@
+{
+  "name": "lexia 2",
+  "description": "A modern CRM for managing client onboarding workflows, featuring a Kanban pipeline, company directory, and dashboard analytics. Built with React, TypeScript, and a sunset-themed UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
